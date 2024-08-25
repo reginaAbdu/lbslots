@@ -100,3 +100,4 @@
 20 Avenue A, 4I, 397 Clermont Avenue, 2F, 715 East 5th Street, 1C, 354 East 78th Street, 3A,Thu Aug 22 2024 04:10:39 GMT+0000 (Coordinated Universal Time)
 349 West 46th, 2S, 20 Avenue A, 4I, 397 Clermont Avenue, 2F, 715 East 5th Street, 1C, 354 East 78th Street, 3A,Fri Aug 23 2024 04:11:41 GMT+0000 (Coordinated Universal Time)
 349 West 46th, 2S, 20 Avenue A, 4I, 715 East 5th Street, 1C, 354 East 78th Street, 3A,Sat Aug 24 2024 04:10:40 GMT+0000 (Coordinated Universal Time)
+1675 Lexington Avenue, 9, 349 West 46th, 2S, 20 Avenue A, 4I, 715 East 5th Street, 1C, 354 East 78th Street, 3A,Sun Aug 25 2024 04:10:19 GMT+0000 (Coordinated Universal Time)
