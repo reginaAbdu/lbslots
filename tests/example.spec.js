@@ -25,7 +25,7 @@ test("has title", async ({ page }) => {
   await numbertag.waitFor();
   await expect(numbertag).toBeVisible();
   try {
-    await expect(numbertag).toHaveText("1");
+    await expect(numbertag).toHaveText("5");
   } catch (error) {
     await Notifier.notify();
   }
