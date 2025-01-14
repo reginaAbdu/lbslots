@@ -11,6 +11,7 @@ let counter = 1;
 
 test("has title", async ({ page }) => {
   await page.goto("https://www.leasebreak.com/sign-in");
+  await page.waitForTimeout(5000);
   await expect(page).toHaveTitle("Sign In | LeaseBreak.com");
   await page.locator("#UserModel_email").fill("welcome@junehomes.com");
   await page.locator("#UserModel_password").fill("36F%~20^9HFK9glIQ44");
